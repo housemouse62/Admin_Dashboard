@@ -215,6 +215,10 @@ button {
     font-size: 10px;
 }
 
+.announcement-text {
+    font-size: 12px;
+}
+
 .bottom-border {
     border-bottom: 1px solid grey;
     margin-bottom: 15px;
@@ -234,6 +238,8 @@ button {
     padding: 25px;
     border-radius: 5px;
     box-shadow: 3px 3px 2px lightgrey;
+    font-size: 14px;
+    align-items: center;
 }
 
 .project {
